@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/refresh_menu"
+        android:icon="@drawable/ic_refresh"
+        android:title="Refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/gameType"
+        android:title="Choose a game"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/yourGame"
+        android:title="Create your game"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/downloadCustomGame"
+        android:title="Download custom game"
+        android:visible="true"
+        app:showAsAction="never" />
+</menu>
