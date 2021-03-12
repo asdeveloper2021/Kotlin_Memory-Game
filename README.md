@@ -6,9 +6,9 @@ An open-source Android memory game. Play with the default icons, or play a custo
 You can also download memory boards made by others by entering the game name.
 
 Things you can learn from this project : 
-Kotlin
-Firebase
-Picasso
+Kotlin , 
+Firebase , 
+Picasso ,
 Uploading apk to play store
 
 
