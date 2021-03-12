@@ -7,6 +7,7 @@ You can also download memory boards made by others by entering the game name.
 
 Things you can learn from this project : 
 Kotlin , 
+RecylerViewer
 Firebase , 
 Picasso ,
 Uploading apk to play store
